@@ -53,6 +53,17 @@ To serve the existing build files locally, follow these steps:
 
 ## Contributing
 
+#### Current Contributors
+
+- Likhith Kanigolla
+
+- Sasidhar Varada 
+
+- Surya Suhaas
+
+- Himanshu Fanibhare
+
+
 We welcome contributions to enhance the functionality and features of this project. Please refer to the `CONTRIBUTING.md` file for guidelines on how to contribute.
 
 ---
